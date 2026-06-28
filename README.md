@@ -1,8 +1,8 @@
-# Ollamachat
+<h1 align="center">Ollamachat</h1>
 
-> A brutalist, local-first chat interface for [Ollama](https://ollama.com). No accounts, no API keys, no backend — just your local models and a terminal-inspired UI.
+> <p align="center">A brutalist, local-first chat interface for <a href="https://ollama.com">Ollama</a>. No accounts, no API keys, no backend — just your local models and a terminal-inspired UI.</p>
 
-Built with **React 19** + **TypeScript** + **Vite 6** + **Tailwind CSS v4**. Connects directly to your local Ollama instance and provides a ChatGPT-like chat experience entirely in your browser, entirely on your machine.
+<p align="center">Built with <strong>React 19</strong> + <strong>TypeScript</strong> + <strong>Vite 6</strong> + <strong>Tailwind CSS v4</strong>. Connects directly to your local Ollama instance and provides a ChatGPT-like chat experience entirely in your browser, entirely on your machine.</p>
 
 ---
 
